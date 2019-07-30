@@ -45,7 +45,7 @@ This is a small example service demonstrating flask, sqlalchemy, and graphQL. Th
 and I'm not adhering to strict pep8. I've considered scalability, performance, and security, and
 look forward to discussing my choices.
 
-At the moment this is a backend service only, responding to GraphQL or REST requests. I might throw together a quick React frontend and add CORS support if I find spare time on Tuesday.
+At the moment this is a backend service only, responding to GraphQL or REST requests. I might throw together a quick React frontend and add CORS support if I find spare time.
 
 In all seriousness this is not a great idea for general URL shortening, as many browsers and middleware technologies still have a difficult time with emoji characters. Still fun though. 👯
 
