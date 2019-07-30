@@ -9,7 +9,7 @@ __Endpoints:__
 
 *GraphQL*
 
-* GraphQL interface is available at  `http://localhost:3001/graphql/
+* GraphQL interface is available at  `http://localhost:3001/graphql/`
 
 *Query*
 
